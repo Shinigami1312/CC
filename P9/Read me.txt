@@ -1,0 +1,8 @@
+Open Command prompt.
+Write run.bat & press Enter.
+
+Now Enter Any Expression.
+
+For Example,
+	
+	 a=b*c/d-2+4;
